@@ -1,0 +1,30 @@
+{
+  "name": "react-webpack",
+  "version": "1.0.0",
+  "description": "React webpack starter kit",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izebb/react-webpack.git"
+  },
+  "keywords": [
+    "js",
+    "react",
+    "webpack",
+    "isomorphic",
+    "app"
+  ],
+  "author": "gabriel izebhigie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izebb/react-webpack/issues"
+  },
+  "homepage": "https://github.com/izebb/react-webpack#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.1"
+  }
+}
